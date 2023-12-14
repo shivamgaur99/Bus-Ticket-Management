@@ -1,2 +1,2 @@
 # Bus-Ticket-Management 
-#Console base java application
+# Console base java application
